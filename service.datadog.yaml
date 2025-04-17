@@ -1,0 +1,28 @@
+## Fill in with your own values
+
+#schema-version: v2.2
+#dd-service:
+#application: "" # all experiences
+#type: custom
+#tier: Non Critical # is_critical
+#lifecycle: Maintained
+#team:
+#links:
+#  - name:
+#    url: https://github.com/travelperk/
+#    type: repo
+#    provider: Github
+#  - name:
+#    url: https://www.notion.so/travelperk/
+#    type: doc
+#    provider: Notion
+#contacts:
+#  - name:
+#    type: slack
+#    contact: https://travelperk.slack.com/archives/
+#tags:
+#  - created_by:datadog
+#  - has_pii:false # true if the service handles PII
+#  - has_spii:false # true if the service handles SPII
+#  - has_pci:false # true if the service handles PCI
+#  - exposure:internal # external if the service is exposed to the internet
