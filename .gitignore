@@ -6,9 +6,6 @@
 __pycache__
 .python-version
 
-# pip-compile
-src/
-
 # Patches
 *.patch
 
